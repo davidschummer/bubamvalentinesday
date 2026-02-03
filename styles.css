@@ -10,7 +10,7 @@
     /* Animations */
     --float-duration: 15s;
     --float-distance: 50px;
-    --bounce-speed: 1.0s;
+    --bounce-speed: 0.8s;
     --heart-explosion-size: 1.5;
 }
 
@@ -91,7 +91,7 @@ body {
     bottom: 20px;
     right: 20px;
     margin-top: 0;
-    opacity: 0.2;
+    opacity: 0.4;
     transition: opacity 0.3s;
     transform: scale(0.7);
     z-index: 2;
