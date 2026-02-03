@@ -49,7 +49,7 @@ const CONFIG = {
 
     animations: {
         floatDuration: "15s",           
-        floatDistance: "30px",          
+        floatDistance: "20px",          
         bounceSpeed: "0.8s",           
         heartExplosionSize: 1.5         
     },
