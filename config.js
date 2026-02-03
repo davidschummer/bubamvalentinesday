@@ -35,7 +35,7 @@ const CONFIG = {
 
     celebration: {
         title: "I hoped so bro 🤣🤣",
-        message: "I wish you were here so I could give you a big hug and a million kisses. I love you, baby.",
+        message: "I wish you were here so I could give you a big hug and a million kisses. I love you to the moon and back ❤️",
         emojis: "❤️🧸🦦💝👫💓" 
     },
 
