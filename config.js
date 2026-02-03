@@ -57,10 +57,10 @@ const CONFIG = {
     music: {
         enabled: true,                    
         autoplay: true,                   
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
-        startText: "🎵 Play Music",        // Button text to start music
-        stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        musicUrl: "https://res.cloudinary.com/dsxfwxkbh/video/upload/v1770098501/Mac_DeMarco_____My_Kind_Of_Woman__4_mxm5vu.mp3", 
+        startText: "🎵 Play Music",        
+        stopText: "🔇 Turn that shit off!",         
+        volume: 0.5                        
     }
 };
 
