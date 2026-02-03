@@ -10,7 +10,7 @@
     /* Animations */
     --float-duration: 15s;
     --float-distance: 50px;
-    --bounce-speed: 0.5s;
+    --bounce-speed: 1.0s;
     --heart-explosion-size: 1.5;
 }
 
@@ -233,7 +233,7 @@ body {
         transform: scale(1);
     }
     to {
-        transform: scale(1.2);
+        transform: scale(1.05);
     }
 }
 
